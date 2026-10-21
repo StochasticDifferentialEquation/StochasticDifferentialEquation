@@ -1,5 +1,4 @@
 ## Hi there 👋
-![random image](https://picsum.photos/800/400)
 <!--
 **StochasticDifferentialEquation/StochasticDifferentialEquation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
